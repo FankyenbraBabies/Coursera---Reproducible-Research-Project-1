@@ -1,7 +1,7 @@
 ---
 title: "Course Project 1 - Reproducible Research"
-author: "Shengyu Chen"
-date: "March 20, 2016"
+author: "Kofi Frimpong"
+date: "Nov 4, 2023"
 output: html_document
 ---
 
@@ -20,7 +20,7 @@ output: html_document
 ##Step 1
 ##Code for reading in the dataset and/or processing the data
 ```{r, echo = TRUE}
-setwd("C:/Users/Shengyu Chen/Dropbox/Academics/Coursera/Data Science Specialization/Reproducible Research/Course Project 1")
+setwd("C:/Users/Kofi/Desktop/COURSERA CERTIFICATES/Data Science Foundations Using R Specialization/5. Reproducible Research/Project 1/Coursera---Reproducible-Research-Project-1")
 activity<-read.csv("activity.csv")
 ```
 
